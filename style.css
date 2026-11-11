@@ -265,3 +265,5 @@ footer small { opacity: .75; }
 .project-cover { aspect-ratio: 16 / 9; }
 
 .case-icon img[src*="brand-logo"] { padding: 3px; }
+
+.section-num, .section-line { display: none; }
