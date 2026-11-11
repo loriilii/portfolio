@@ -3,7 +3,7 @@
    例如：const RESUME_URL = "https://drive.google.com/file/d/xxxx/view";
    全站三個「下載履歷」按鈕會一起更新
    ========================================================= */
-const RESUME_URL = "https://drive.google.com/file/d/1mHzRsYQwGLMzzbRZHmsztBTBHccqponP/view?usp=drive_link";
+const RESUME_URL = "https://drive.google.com/file/d/1-dtCrDFnE73UbFT31lE6dYZ-GK6y9byd/view?usp=sharing";
 
 document.querySelectorAll(".resume-link").forEach(function (a) {
   a.href = RESUME_URL;
