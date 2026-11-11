@@ -267,3 +267,7 @@ footer small { opacity: .75; }
 .case-icon img[src*="brand-logo"] { padding: 3px; }
 
 .section-num, .section-line { display: none; }
+
+.section-num, .section-line, .project-num { display: none; }
+
+#about .section-head { display: none; }
